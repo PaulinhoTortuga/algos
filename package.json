@@ -1,0 +1,16 @@
+{
+  "name": "algos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "PabloT <tortugafrontend@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^8.53.0"
+  },
+  "scripts": {
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "vitest": "^0.34.6"
+  }
+}
